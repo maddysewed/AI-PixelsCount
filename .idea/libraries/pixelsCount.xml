@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pixelsCount">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pixelsCount/out/artifacts/pixelsCount_jar/pixelsCount.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/pixelsCount/src" />
+    </SOURCES>
+  </library>
+</component>

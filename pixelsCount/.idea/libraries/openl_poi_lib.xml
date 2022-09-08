@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="openl.poi.lib" type="repository">
+    <properties maven-id="org.openl:org.openl.poi.lib:5.9.1.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/openl/org.openl.poi.lib/5.9.1.1/org.openl.poi.lib-5.9.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/ooxml-schemas/1.1/ooxml-schemas-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/openl/rules/org.openl.lib.poi.dev.modified/5.9.1.1/org.openl.lib.poi.dev.modified-5.9.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.0/commons-io-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/santuario/xmlsec/1.4.3/xmlsec-1.4.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/xalan/xalan/2.7.1/xalan-2.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/xalan/serializer/2.7.1/serializer-2.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/1.6/joda-time-1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
